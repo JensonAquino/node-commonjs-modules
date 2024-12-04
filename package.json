@@ -2,6 +2,7 @@
   "name": "commonjs-modules",
   "version": "1.0.0",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "start": "node app.js",
     "dev": "node --watch app.js"
